@@ -1,0 +1,20 @@
+#panel1,
+#panel2,
+#panel3 {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #0f6100;
+}
+
+#panel2 {
+    padding: 50px;
+    display: none;
+    background-color: rgb(17, 238, 190);
+}
+
+#panel3 {
+    padding: 50px;
+    display: none;
+    background-color: rgb(235, 88, 22);
+}
